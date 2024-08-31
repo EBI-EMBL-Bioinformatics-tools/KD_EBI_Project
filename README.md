@@ -15,5 +15,4 @@ Based on the review by Liu et al (2022), we list here the most significant genes
 | NEDD4	| 15q21.3 |	rs8032158	| Egyptian, Japanese |
 
 ![image](https://github.com/NataliaDC16/KD_EBI_Project/blob/main/KD.png) 
-## Imagen Referenciada
 La imagen mostrada en [Florida Keloid Center](https://floridakeloidcenter.com/news/)
