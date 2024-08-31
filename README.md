@@ -17,3 +17,11 @@ Based on the review by Liu et al (2022), we list here the most significant genes
 ![image](https://github.com/NataliaDC16/KD_EBI_Project/blob/main/KD.png) 
 
 La imagen tomada de [Florida Keloid Center](https://floridakeloidcenter.com/news/)
+
+## European PMC
+
+Search for information on keloid disease in European PMC using:
+```plaintext
+(TITLE:"keloid disease") AND (ANNOTATION_TYPE:"Gene") AND (FIRST_PDATE:[2019 TO 2024])
+
+
