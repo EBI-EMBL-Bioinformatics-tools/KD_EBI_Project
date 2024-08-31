@@ -23,5 +23,3 @@ La imagen tomada de [Florida Keloid Center](https://floridakeloidcenter.com/news
 Search for information on keloid disease in European PMC using:
 ```plaintext
 (TITLE:"keloid disease") AND (ANNOTATION_TYPE:"Gene") AND (FIRST_PDATE:[2019 TO 2024])
-
-
