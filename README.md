@@ -14,4 +14,4 @@ Based on the review by Liu et al (2022), we list here the most significant genes
 | MYO1E	| 15q21.2-22.3 | rs28394564 |	African American |
 | NEDD4	| 15q21.3 |	rs8032158	| Egyptian, Japanese |
 
-![image](https://github.com/)
+![image](https://github.com/NataliaDC16/KD_EBI_Project/edit/main/KD.png) 
