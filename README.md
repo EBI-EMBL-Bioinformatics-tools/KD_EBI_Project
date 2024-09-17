@@ -34,3 +34,5 @@ keloid disease in population AND (FIRST_PDATE:[2019 TO 2024]) AND (HAS_FT:Y)
 ```plaintext
 keloid disease AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:"Review")))
 ```
+
+Hola mundo
