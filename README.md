@@ -59,10 +59,15 @@ For POSTN information in entry: Q15063.
 The EMI domain of this protein, believed to be the most important for interaction with collagen and fibronectin by Liu et al (2018). This domain is found between the amino acids 40 and 94 of the protein. ID:IPR011489.
 
 ## AlphaFold
-
+```plaintext
 COMP predicted structure with accession code: AF-P49747-F1-v4.
+```
+```plaintext
 POSTN predicted structure with accession code: AF-Q15063-F1-v4.
-Unconventinal myosin-le with accession code:Q12965
+```
+```plaintext
+Unconventinal myosin-le with accession code:Q12965.
+```
 ## InterPro
 
 Unconventinal myosin-le/lf, SH3 domain:IP035507.
