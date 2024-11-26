@@ -37,5 +37,38 @@ keloid disease in population AND (FIRST_PDATE:[2019 TO 2024]) AND (HAS_FT:Y)
 ```plaintext
 keloid disease AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:"Review")))
 ```
+## European Variation Archive (EVA)
+We conducted the searches using GRCh7, not GRCh8.
+
+## Uniprot 
+Based on our search in Uniprot, it’s clear that KD is mostly independent from changes in protein sequence. None of our 5 main variants result in changes to the protein sequence and are not listed in Uniprot. Therefore, we may conclude that KD is mostly the result of regulatory changes and not missense or nonsense variants.
+
+## PDBe
+The expression of the COMP and POSTN genes is associated with collagen deposition in the cellular matrix and has been found to be overexpressed in keloid tissue. 
+
+PDBe contains one entry for human protein COMP with accession ID 3fby.
+PDBe contains three entries for human periostin (POSTN) with acession IDs: 5yjg, 5yjh and 5wt7.
+
+## InterPro 
+We used InterPro to research the domains thought to interact with collagen and/or fibronectin in both proteins. 
+
+For COMP information in entry: G3XAP6.
+It is believed that COMP in pentameric formation catalyzes the formation of collagen structures using the N-terminal coiled-coil linker domain (Halász et al, 2007). This domain is found in the InterPro entry for COMP and is in the first 40 amino acids (position 1-40) of the protein. ID: IPR024665.
+
+For POSTN information in entry: Q15063.
+The EMI domain of this protein, believed to be the most important for interaction with collagen and fibronectin by Liu et al (2018). This domain is found between the amino acids 40 and 94 of the protein. ID:IPR011489.
+
+## AlphaFold
+
+COMP predicted structure with accession code: AF-P49747-F1-v4.
+POSTN predicted structure with accession code: AF-Q15063-F1-v4.
+Unconventinal myosin-le with accession code:Q12965
+## InterPro
+
+Unconventinal myosin-le/lf, SH3 domain:IP035507.
+Myosin head, motor domain:IPR001609.
+Kinesin motor domain superfamily: IPR036961.
+Class I myosin tail homology domain:IPR010926.
+
 
 
