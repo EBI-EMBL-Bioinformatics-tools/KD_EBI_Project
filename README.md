@@ -18,6 +18,9 @@ Based on the review by Liu et al (2022), we list here the most significant genes
 
 La imagen tomada de [Florida Keloid Center](https://floridakeloidcenter.com/news/)
 
+## European Nucleotide Archive (ENA)
+We found that the ENA has some interesting projects associated with keloids, such as transcriptomic analysis of keloid tissue versus regular scar tissue. Many projects don’t have publicly available data yet. However, we found some transcriptomics projects that did. For example: project PRJNA764368. Other projects with publicly available data for keloids include: PRJEB50146, PRJNA751500, PRJNA734158 and PRJNA780889.
+
 ## European PMC
 
 Search for information on keloid disease in European PMC using:
