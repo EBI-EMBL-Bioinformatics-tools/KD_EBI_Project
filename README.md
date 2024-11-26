@@ -51,12 +51,15 @@ PDBe contains three entries for human periostin (POSTN) with acession IDs: 5yjg,
 
 ## InterPro 
 We used InterPro to research the domains thought to interact with collagen and/or fibronectin in both proteins. 
-
+```plaintext
 For COMP information in entry: G3XAP6.
+```
 It is believed that COMP in pentameric formation catalyzes the formation of collagen structures using the N-terminal coiled-coil linker domain (Halász et al, 2007). This domain is found in the InterPro entry for COMP and is in the first 40 amino acids (position 1-40) of the protein. ID: IPR024665.
 
+```plaintext
 For POSTN information in entry: Q15063.
-The EMI domain of this protein, believed to be the most important for interaction with collagen and fibronectin by Liu et al (2018). This domain is found between the amino acids 40 and 94 of the protein. ID:IPR011489.
+```
+The EMI domain of this protein, believed to be the most important for interaction with collagen and fibronectin by Liu et al (2018). This domain is found between the amino acids 40 and 94 of the protein. ##ID:IPR011489.
 
 ## AlphaFold
 ```plaintext
