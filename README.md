@@ -69,11 +69,18 @@ POSTN predicted structure with accession code: AF-Q15063-F1-v4.
 Unconventinal myosin-le with accession code:Q12965.
 ```
 ## InterPro
-
+```plaintext
 Unconventinal myosin-le/lf, SH3 domain:IP035507.
+```
+```plaintext
 Myosin head, motor domain:IPR001609.
+```
+```plaintext
 Kinesin motor domain superfamily: IPR036961.
+```
+```plaintext
 Class I myosin tail homology domain:IPR010926.
+```
 
 
 
