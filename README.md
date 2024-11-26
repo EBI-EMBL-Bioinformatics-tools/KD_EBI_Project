@@ -19,7 +19,7 @@ Based on the review by Liu et al (2022), we list here the most significant genes
 La imagen tomada de [Florida Keloid Center](https://floridakeloidcenter.com/news/)
 
 ## European Nucleotide Archive (ENA)
-We found that the ENA has some interesting projects associated with keloids, such as transcriptomic analysis of keloid tissue versus regular scar tissue. Many projects don’t have publicly available data yet. However, we found some transcriptomics projects that did. For example: project PRJNA764368. Other projects with publicly available data for keloids include: PRJEB50146, PRJNA751500, PRJNA734158 and PRJNA780889.
+We found that the ENA has some interesting projects associated with keloids, such as transcriptomic analysis of keloid tissue versus regular scar tissue. Many projects don’t have publicly available data yet. However, we found some transcriptomics projects that did. **For example: project PRJNA764368. Other projects with publicly available data for keloids include: PRJEB50146, PRJNA751500, PRJNA734158 and PRJNA780889.**
 
 ## European PMC
 
@@ -45,21 +45,23 @@ Based on our search in Uniprot, it’s clear that KD is mostly independent from 
 
 ## PDBe
 The expression of the COMP and POSTN genes is associated with collagen deposition in the cellular matrix and has been found to be overexpressed in keloid tissue. 
-
-PDBe contains one entry for human protein COMP with accession ID 3fby.
+```plaintext
+PDBe contains one entry for human protein COMP with accession: ID 3fby.
+```
+```plaintext
 PDBe contains three entries for human periostin (POSTN) with acession IDs: 5yjg, 5yjh and 5wt7.
-
+```
 ## InterPro 
 We used InterPro to research the domains thought to interact with collagen and/or fibronectin in both proteins. 
 ```plaintext
 For COMP information in entry: G3XAP6.
 ```
-It is believed that COMP in pentameric formation catalyzes the formation of collagen structures using the N-terminal coiled-coil linker domain (Halász et al, 2007). This domain is found in the InterPro entry for COMP and is in the first 40 amino acids (position 1-40) of the protein. ID: IPR024665.
+It is believed that COMP in pentameric formation catalyzes the formation of collagen structures using the N-terminal coiled-coil linker domain (Halász et al, 2007). This domain is found in the InterPro entry for COMP and is in the first 40 amino acids (position 1-40) of the protein. **ID: IPR024665.**
 
 ```plaintext
 For POSTN information in entry: Q15063.
 ```
-The EMI domain of this protein, believed to be the most important for interaction with collagen and fibronectin by Liu et al (2018). This domain is found between the amino acids 40 and 94 of the protein. ##ID:IPR011489.
+The EMI domain of this protein, believed to be the most important for interaction with collagen and fibronectin by Liu et al (2018). This domain is found between the amino acids 40 and 94 of the protein. **ID:IPR011489.**
 
 ## AlphaFold
 ```plaintext
